@@ -1,0 +1,11 @@
+C:\Users\AntonioG\source\repos\TrabajoGrupal\TrabajoGrupal\bin\Debug\netcoreapp3.0\TrabajoGrupal.exe
+C:\Users\AntonioG\source\repos\TrabajoGrupal\TrabajoGrupal\bin\Debug\netcoreapp3.0\TrabajoGrupal.deps.json
+C:\Users\AntonioG\source\repos\TrabajoGrupal\TrabajoGrupal\bin\Debug\netcoreapp3.0\TrabajoGrupal.runtimeconfig.json
+C:\Users\AntonioG\source\repos\TrabajoGrupal\TrabajoGrupal\bin\Debug\netcoreapp3.0\TrabajoGrupal.runtimeconfig.dev.json
+C:\Users\AntonioG\source\repos\TrabajoGrupal\TrabajoGrupal\bin\Debug\netcoreapp3.0\TrabajoGrupal.dll
+C:\Users\AntonioG\source\repos\TrabajoGrupal\TrabajoGrupal\bin\Debug\netcoreapp3.0\TrabajoGrupal.pdb
+C:\Users\AntonioG\source\repos\TrabajoGrupal\TrabajoGrupal\obj\Debug\netcoreapp3.0\TrabajoGrupal.csprojAssemblyReference.cache
+C:\Users\AntonioG\source\repos\TrabajoGrupal\TrabajoGrupal\obj\Debug\netcoreapp3.0\TrabajoGrupal.AssemblyInfoInputs.cache
+C:\Users\AntonioG\source\repos\TrabajoGrupal\TrabajoGrupal\obj\Debug\netcoreapp3.0\TrabajoGrupal.AssemblyInfo.cs
+C:\Users\AntonioG\source\repos\TrabajoGrupal\TrabajoGrupal\obj\Debug\netcoreapp3.0\TrabajoGrupal.dll
+C:\Users\AntonioG\source\repos\TrabajoGrupal\TrabajoGrupal\obj\Debug\netcoreapp3.0\TrabajoGrupal.pdb
